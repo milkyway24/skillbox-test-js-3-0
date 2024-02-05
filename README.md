@@ -1,1 +1,1 @@
-# skillbox-test-js-3-0
+# skillbox-test-js-3-0.github.io
