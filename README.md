@@ -1,1 +1,0 @@
-# skillbox-test-js-3-0
